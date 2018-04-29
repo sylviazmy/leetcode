@@ -1,23 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3c50a4e8-eae0-47d8-9ab4-b1bf3550eb4c" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/array/238_ProductofArrayExceptSelf.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/array/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backtracking/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/binarysearch/287_findDuplicate.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/double_pointer/141_hasCycle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/double_pointer/142_LinkedListCycleII.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dynamic_programming/11_maxWater.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hashtable/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linked_List/2_addTwoNumbers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unionfind/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1_twoSum.py" beforeDir="false" afterPath="$PROJECT_DIR$/hashtable/1_twoSum.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/200_numIslands.py" beforeDir="false" afterPath="$PROJECT_DIR$/unionfind/200_numIslands.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/22.Generate Parentheses.py" beforeDir="false" afterPath="$PROJECT_DIR$/backtracking/22.Generate Parentheses.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/46.Permutation.py" beforeDir="false" afterPath="$PROJECT_DIR$/backtracking/46.Permutation.py" afterDir="false" />
-    </list>
+    <list default="true" id="3c50a4e8-eae0-47d8-9ab4-b1bf3550eb4c" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -26,7 +10,26 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="238_ProductofArrayExceptSelf.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/array/238_ProductofArrayExceptSelf.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="15" column="21" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="22.Generate Parentheses.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/backtracking/22.Generate Parentheses.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="16" column="14" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -74,6 +77,16 @@
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="array" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="backtracking" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -116,19 +129,28 @@
       <option name="presentableId" value="Default" />
       <updated>1523387757099</updated>
     </task>
+    <task id="LOCAL-00001" summary="update">
+      <created>1524981012790</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1524981012790</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="263" y="164" width="1436" height="812" extended-state="0" />
+    <frame x="4" y="88" width="1436" height="812" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16183746" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16183746" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info active="true" anchor="bottom" id="Event Log" order="7" sideWeight="0.50035334" side_tool="true" visible="true" weight="0.32867134" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Python Console" order="7" />
+      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49964663" visible="true" weight="0.32867134" />
+      <window_info anchor="bottom" id="Python Console" order="7" weight="0.32867134" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32867134" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -143,6 +165,10 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/unionfind/200_numIslands.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -155,13 +181,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="4" column="3" lean-forward="true" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/backtracking/22.Generate Parentheses.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="14" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
         </state>
       </provider>
     </entry>
@@ -211,6 +230,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="15" column="21" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backtracking/22.Generate Parentheses.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="14" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
         </state>
       </provider>
     </entry>
