@@ -14,6 +14,7 @@ class Solution:
         """
         :type n: int
         :rtype: List[str]
+        medium
         """
         if not n:
             return []

@@ -4,12 +4,11 @@ class Solution:
         :type nums: List[int]
         :type target: int
         :rtype: List[int]
+        easy
         """
-
-        dic = {}
+        dic={}
         for i in range(len(nums)):
-            if target - nums[i] in dic:
-                return [dic.get(target - nums[i]), i]
+            if nums[i] not in dic:
+                dic[target-nums[i]]=i
             else:
-                dic[nums[i]] = i
-        return []
+                return [dic[nums[i]],i]
